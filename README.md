@@ -1,2 +1,2 @@
 # bitterblitter.co.uk
-A Static HTML Blog/Project site
+A Static HTML Project site
