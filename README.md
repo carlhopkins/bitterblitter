@@ -1,2 +1,1 @@
-# bitterblitter.co.uk
-A Static HTML Project site
+# bitterblitter.github.io
